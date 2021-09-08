@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GuruGame.unity
+    guid: 1a530a604607183409c94d559ba421d7
+  - enabled: 1
+    path: Assets/Scenes/apple/1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/apple/2.unity
+    guid: 3908a41499606374eadcb2feb1bd5548
+  - enabled: 1
+    path: Assets/Scenes/apple/3.unity
+    guid: 6f560e3382f4cfa42a7f298d3d5e0767
+  - enabled: 1
+    path: Assets/Scenes/apple/4.unity
+    guid: 9eee363eb6c55884eb8f7dace33aace1
+  - enabled: 1
+    path: Assets/Scenes/apple/5.unity
+    guid: 56347024467c4564e9f4bf5ad86f3d5e
+  - enabled: 1
+    path: Assets/Scenes/apple/6.unity
+    guid: 81d385fec488ce248a511b418ee47af8
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/dotori/d1.unity
+    guid: 0c1b98e6ed8e2b5438e1612d2070400d
+  - enabled: 1
+    path: Assets/Scenes/dotori/d2.unity
+    guid: b2148d686646b534d9f75608bb0ac739
+  - enabled: 1
+    path: Assets/Scenes/dotori/d3.unity
+    guid: 363042f6c8415d2459ba56d78895141a
+  - enabled: 1
+    path: Assets/Scenes/dotori/d4.unity
+    guid: a3a2428e94072454bbdd3e0a081a5533
+  - enabled: 1
+    path: Assets/Scenes/dotori/d5.unity
+    guid: 975f535230e18324b9f6b4c0b774bec0
+  - enabled: 1
+    path: Assets/Scenes/dotori/d6.unity
+    guid: 1ac698edfbdd2e64c88793f3d2e8e4a5
+  - enabled: 1
+    path: Assets/Scenes/melon/m1.unity
+    guid: 29f29c8af18e90a41ba546267b25e328
+  - enabled: 1
+    path: Assets/Scenes/melon/m2.unity
+    guid: 895090f5c8a24ef499e49ffbff764ffd
+  - enabled: 1
+    path: Assets/Scenes/melon/m3.unity
+    guid: 0ec949a3407b4c148a161891bd8bbf5c
+  - enabled: 1
+    path: Assets/Scenes/melon/m4.unity
+    guid: dab27cd96c8a851448ffab81d7dc9f07
+  - enabled: 1
+    path: Assets/Scenes/melon/m5.unity
+    guid: 7f246efdd1895b74594e3be293911735
+  - enabled: 1
+    path: Assets/Scenes/melon/m6.unity
+    guid: 817696bc535ccc345909929daf0d7570
+  - enabled: 1
+    path: Assets/Scenes/watermelon/w1.unity
+    guid: 2ada830ef24466041be8da7527798916
+  - enabled: 1
+    path: Assets/Scenes/watermelon/w2.unity
+    guid: 73f15179018817b40b829c1df6206345
+  - enabled: 1
+    path: Assets/Scenes/watermelon/w3.unity
+    guid: 733673fa9ed933b4797b42dddcc7dbdc
+  - enabled: 1
+    path: Assets/Scenes/watermelon/w4.unity
+    guid: 9af04c47313771f4996875e534f16f6b
+  - enabled: 1
+    path: Assets/Scenes/watermelon/w5.unity
+    guid: be852229a7b80bf4593a0e1445c92514
+  - enabled: 1
+    path: Assets/Scenes/watermelon/w6.unity
+    guid: 522080d4473a8194da0dfffb900fa994
+  m_configObjects: {}
